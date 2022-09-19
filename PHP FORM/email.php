@@ -18,5 +18,5 @@ if(mail($to,$subject,$body,$header)){
     echo("Email enviado!");
 }
 else{
-    echo("O email não pode ser enviado");
+    echo("Desculpe, email não pode ser enviado");
 }
